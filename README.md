@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**EvanLjp/evanljp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**evanljp/evanljp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=evanljp&show_icons=true)
+
+My name is **Liu Haoyang**
+
+- 🔭 I’m currently working on [Baidu](https://www.baidu.com/).
+- 🖖 I’m currently focusing on large scale monitoring system.
+- 🌱 I’m currently learning distributed system.
+- 💕 I’m a cloud computing enthusiast.
